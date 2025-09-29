@@ -539,13 +539,6 @@
             "ext": "https://www.xb6v.com/"
         },
         {
-            "key": "本地",
-            "name": "📁文件┃本地┃资源",
-            "type": 3,
-            "jar": "https://raw.githubusercontent.com/zsp9696-2025/0928/refs/heads/main/0928jar/moyuer.php;md5;36456a794b9f6d670931667d79bf8e9c",
-            "api": "csp_LocalFile"
-        },
-        {
             "key": "push_agent",
             "name": "🛴手机┃推送┃链接",
             "type": 3,
